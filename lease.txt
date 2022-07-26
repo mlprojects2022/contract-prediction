@@ -1,0 +1,7 @@
+1.rent amount & escalation
+2. Rent tenure, renewal & security deposit
+3. rent termination
+4.mode of payment
+5. rent payment date & delay penalty
+6.facilities
+7.previous bills
